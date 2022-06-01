@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ## Manish Gautam
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/manishmg3994)
 <div align="center">
   <a href="https://github.com/manishmg3994">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishmg3994&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
