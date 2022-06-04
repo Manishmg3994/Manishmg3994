@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi there  <image src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" width=30>
 
 **Everyone is Invited to Subscribe My YouTube Channel**
 <a href="https://www.youtube.com/channel/UC1WAYyCbaUTY1nR_LV1Qiag?sub_confirmation=1">
-[![youtube](https://img.shields.io/badge/-Antinna-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=white&color=313131)](https://www.youtube.com/channel/UC1WAYyCbaUTY1nR_LV1Qiag)
+[![youtube](https://img.shields.io/badge/-Antinna-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=red&color=313131)](https://www.youtube.com/channel/UC1WAYyCbaUTY1nR_LV1Qiag)
   </a> 
 
 
 ## Manish Gautam
 [:heart: Sponsor](https://github.com/sponsors/manishmg3994)
+![](https://komarev.com/ghpvc/?username=manishmg3994&color=4F89DE)
 <div align="center">
   <a href="https://github.com/manishmg3994">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishmg3994&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,5 +40,13 @@
   <a href="https://www.linkedin.com/in/manish-gautam-10285b178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  <br>
  
-</div>
+  <a href="https://github.com/sponsors/Manishmg3994" target="_blank"> ![Sponser](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
+
+  [![Manishmg3994's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishmg3994&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  ![Lambo](https://aleen42.github.io/badges/src/lamborghini.svg)
+ 
+ 
+
