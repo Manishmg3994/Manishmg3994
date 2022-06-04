@@ -45,7 +45,7 @@
  
   <a href="https://github.com/sponsors/Manishmg3994" target="_blank"> ![Sponser](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
 
-  [![Manishmg3994's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishmg3994&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Manishmg3994's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishmg3994&theme=blue-green)](https://github.com/manishmg3994/github-readme-streak-stats)
   ![Lambo](https://aleen42.github.io/badges/src/lamborghini.svg)
  
  
