@@ -28,10 +28,11 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://secure.gravatar.com/avatar/9bcbba71d1146d0432f3926d37b8e187?s=100&r=pg&d=mm">
 </div>
   
-  ##
+  ## 
  
 <div> 
   <a href="https://www.youtube.com/channel/UC1WAYyCbaUTY1nR_LV1Qiag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://95.216.12.176/channel/UC1WAYyCbaUTY1nR_LV1Qiag?__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" ></a>
   <a href="https://instagram.com/manish_todi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mg3994" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/tqWutvJM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
