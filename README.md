@@ -43,6 +43,10 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
   <br>
+##  💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishmg3994&theme=vue"/>
+</p>
  
   <a href="https://github.com/sponsors/Manishmg3994" target="_blank"> ![Sponser](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
 
