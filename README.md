@@ -53,5 +53,18 @@
   [![Manishmg3994's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishmg3994&theme=blue-green)](https://github.com/manishmg3994/github-readme-streak-stats)
   ![Lambo](https://aleen42.github.io/badges/src/lamborghini.svg)
  
- 
+ <br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/@antinna)
+
+---
 
