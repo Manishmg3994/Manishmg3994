@@ -61,7 +61,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [&lpar;S1&rpar; Activating SERVERPOD  &lpar;Windows&rpar;  हिंदी में  with error Solutions, Dart Server](https://www.youtube.com/watch?v=LgwykcBntd8)
+- [&lpar;S0&rpar;Playlist for Serverpod in Hindi, serverpod हिन्दी भाषा मे](https://www.youtube.com/watch?v=lLG9VWoBHcg)
+- [&lpar;New Interface&rpar;Google developer account registration &lpar;Google Play console&rpar;, गूगल डेवलपर खाता पंजीकरण](https://www.youtube.com/watch?v=5mNtfp_Gxlc)
+- [Flutter Firebase Integration, flutterfire CLI using npm command ,Full setup, windows 11 Flutter/Dart](https://www.youtube.com/watch?v=-bhZh9FT_ww)
+- [Get CLI ACTIVATION on windows and mac OS SYSTEM Flutter/dart App and Server](https://www.youtube.com/watch?v=s5giJq41MAo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@antinna)
