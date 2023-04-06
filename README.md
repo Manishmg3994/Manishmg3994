@@ -65,7 +65,7 @@
 - [&lpar;S0&rpar;Playlist for Serverpod in Hindi, serverpod हिन्दी भाषा मे](https://www.youtube.com/watch?v=lLG9VWoBHcg)
 - [&lpar;New Interface&rpar;Google developer account registration &lpar;Google Play console&rpar;, गूगल डेवलपर खाता पंजीकरण](https://www.youtube.com/watch?v=5mNtfp_Gxlc)
 - [Flutter Firebase Integration, flutterfire CLI using npm command ,Full setup, windows 11 Flutter/Dart](https://www.youtube.com/watch?v=-bhZh9FT_ww)
-- [Get CLI ACTIVATION on windows and mac OS SYSTEM Flutter/dart App and Server](https://www.youtube.com/watch?v=s5giJq41MAo)
+- [&lpar;A2 Final UI speed code&rpar; Flutter Getx MVC Login Register UI with Phone Auth and OTP Screen UI win 11](https://www.youtube.com/watch?v=WrkF_fM3rBw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@antinna)
