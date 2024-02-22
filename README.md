@@ -60,6 +60,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;Learn MD&quot; APP Preview](https://www.youtube.com/watch?v=mmSYOmrWeGY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@antinna)
